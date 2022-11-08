@@ -11,7 +11,7 @@ Download 3 files from the drive in this Folder
 
 https://drive.google.com/file/d/1HToUxYSX4MAKCyMPm_xR7YkI5e_nKmIY/view?usp=sharing
 
-Run The Frontend.....py file which is the main Gui of the Art Gallery
+1. The Frontend.....py file is to be run first which is the main Gui of the Art Gallery
 
 ![My Art](https://user-images.githubusercontent.com/84491010/200649657-3ce1ceab-23fe-480e-a54d-7adf3818671d.jpg)
 
