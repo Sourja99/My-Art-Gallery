@@ -3,7 +3,7 @@ A art gallery in python combining the features of Image colorizer, cartoonizer a
 
 Before Running :
 
-Download 3 files from the drive in this Folder
+Download 3 files from the drive in the Model Directory 
 
 1. colorization_release_v2.caffemodel
 2. colorization_deploy_v2.prototxt
